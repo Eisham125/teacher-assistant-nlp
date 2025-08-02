@@ -7,7 +7,7 @@ NLP-Based Teacher Assistant
 A powerful AI assistant for teachers and students that performs content understanding and transformation tasks like summarization, translation, MCQ generation, and question answering. Built with LangChain and GPT models.
 
 ✨ Features
-3📌 Question Answering: Ask any question based on input text
+#📌 Question Answering: Ask any question based on input text
 🧾 Summarization: Get short summaries of long paragraphs
 🌐 Translation: Translate content into different languages
 📝 MCQ Generation: Automatically generate Multiple Choice Questions
